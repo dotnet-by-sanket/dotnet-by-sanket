@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dotnet Core<br>🌱 I’m currently learning Everything<br>💬 Ask me about Coding<br>⚡ Fun fact I am not an AI
+🔭 I’m currently working on Dotnet Core<br>🌱 I’m currently learning Everything<br>💬 Ask me about Coding<br>⚡ Fun fact I am not an AI👋 Hello, I'm Sanket!<br>🔭 Currently Working On: ASP.NET Core (MVC & APIs)<br>🌱 Currently Learning: Everything that enhances my development skills<br>💬 Ask Me About: Coding, Web Development, and System Architecture<br>⚡ Fun Fact: I am not an AI!<br><br>🛠️ My Technical Expertise:<br>✅ Backend Development: .NET Core MVC, Web APIs<br>✅ Database Management: MSSQL, MySQL, MongoDB<br>✅ Cloud & Hosting Solutions: AWS, Firebase, Cloudflare, ASPHosting<br>✅ Server Management: IIS, Deployment & Hosting Strategies<br><br>🚀 Why Hire Me?<br>With 2.5 years of professional experience, I have expertise in building, deploying, and managing scalable applications using .NET Core. My skills extend to API development, database optimization, and cloud-based hosting solutions. I am always eager to learn new technologies and contribute effectively to any project.<br><br>📩 Open to job opportunities – If you have a vacancy that aligns with my skills, let’s connect!
 
 
 ## 🌐 Socials:
